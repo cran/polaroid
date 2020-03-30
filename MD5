@@ -1,0 +1,11 @@
+e0394cfb73a6a0ebd07f18f13aa70f0d *DESCRIPTION
+9e0b687c4fbf98422b62f1e71e7992e8 *LICENSE
+fb568ea44f1e479eabcbbb71b1e785ed *NAMESPACE
+a4fe6297de9ac4881556b48ed73d3a10 *R/polaroid.R
+c097045be1f3ddf97665a45063b9db51 *README.md
+0bf59f95c7dbbb9d1907ce1fdc46384c *inst/polaroid.png
+ef732f528df4fb60b858fac4739ae491 *inst/polaroid/app.R
+0bf59f95c7dbbb9d1907ce1fdc46384c *inst/polaroid/nut.png
+0382e3a2d6037634f1d5e9dbefb24ab3 *inst/polaroid/rsconnect/shinyapps.io/jhkim/polaroid.dcf
+0ce1bbb818ad3e9bc7183406b96e31b8 *inst/polaroid/www/polaroid_sticker.png
+6074638feb3ab53a8a556fc39762649d *man/polaroid.Rd
